@@ -1,12 +1,13 @@
 {
-  "name": "proyectojs",
+  "name": "modulos",
   "version": "1.0.0",
-  "description": "open bootcamp js",
+  "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Diego Vazquez",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }
